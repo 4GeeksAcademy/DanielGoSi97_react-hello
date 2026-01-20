@@ -7,7 +7,7 @@ const Cards = () => {
     <div className="card h-100">
       <img src="https://picsum.photos/200" class="card-img-top" alt="..."/>
       <div className="card-body d-flex flex-column">
-        <h5 className="card-title">Card title</h5>
+        <h5 className="card-title">Picture 1!</h5>
         <p className="card-text">Card example 1 with something random, always</p>
         <a href="#" class="btn btn-primary mt-auto">Go somewhere</a>
       </div>
@@ -17,7 +17,7 @@ const Cards = () => {
     <div className="card h-100">
       <img src="https://picsum.photos/200" class="card-img-top" alt="..."/>
       <div className="card-body d-flex flex-column">
-        <h5 className="card-title">Card title</h5>
+        <h5 className="card-title">Picture 2!</h5>
         <p className="card-text">Card example 2 with something random, always, and some more text with testing</p>
         <a href="#" class="btn btn-primary mt-auto">Go somewhere</a>
         </div>
@@ -27,7 +27,7 @@ const Cards = () => {
     <div className="card h-100">
       <img src="https://picsum.photos/200" class="card-img-top" alt="..."/>
       <div className="card-body d-flex flex-column">
-        <h5 className="card-title">Card title</h5>
+        <h5 className="card-title">Picture 3!</h5>
         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
         <a href="#" class="btn btn-primary mt-auto">Go somewhere</a>
       </div>
@@ -37,7 +37,7 @@ const Cards = () => {
     <div className="card h-100">
       <img src="https://picsum.photos/200" class="card-img-top" alt="..."/>
       <div className="card-body d-flex flex-column">
-        <h5 className="card-title">Card title</h5>
+        <h5 className="card-title">Picture 4!</h5>
         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
         <a href="#" class="btn btn-primary mt-auto">Go somewhere</a>
       </div>
